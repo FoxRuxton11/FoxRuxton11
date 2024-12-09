@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @FoxRuxton11
 - 👀 I’m interested in ... attaining a bachelor's degree in cybersecurity. 
 - 🌱 I’m currently learning ...to code as a beginner, and soon I will become more proficient in the field
-- 💞️ I’m looking to collaborate on ...cloud and cybersecurity projects for experience. and knowledge. 
+- 💞️ I’m looking to collaborate on ...beginner projects 
 - 📫 How to reach me ...chat is good, or email.
-- 😄 Pronouns: ...I
 - ⚡ Fun fact: ...i have 8 guitars, one is my all time dream guitar.
 
 <!---
